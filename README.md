@@ -2,8 +2,8 @@
 
 ## Je suis un jeune étudiant en informatique
 - Je fais mes études en alternance .
-  - 🏫🎒 Moitié école: [EPSI Lyon <img src="https://media.glassdoor.com/sqll/1129766/epsi-association-squarelogo-1455620120317.png" height="15" />][epsi]
-  - 🏭🌇 Moitié entreprise: [D.R.A Technologies <img src="https://www.dra-technologies.fr/app/themes/DRA/resources/assets/images/screenshot.png" height="15" />][dra] 
+  - 🏫🎒 Moitié école: [<img src="https://media.glassdoor.com/sqll/1129766/epsi-association-squarelogo-1455620120317.png" height="15" /> EPSI Lyon][epsi]
+  - 🏭🌇 Moitié entreprise: [<img src="https://www.dra-technologies.fr/app/themes/DRA/resources/assets/images/screenshot.png" height="15" /> D.R.A Technologies][dra] 
 - Mon but pour l'année scolaire 2020-2021: contribuer plus aux projets open sources
 
 ## Les langages que j'aime
