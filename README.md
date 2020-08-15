@@ -1,11 +1,12 @@
 ### Bonjour tout le monde, moi c'est Maxime BARRY - aka [MAKSIM-BRY][github] sur github 👋
 
-## Je suis un jeune étudiant en informatique
-- Je fais mes études en alternance .
-  - 🏫🎒 Moitié école: [<img src="https://media.glassdoor.com/sqll/1129766/epsi-association-squarelogo-1455620120317.png" height="15" /> EPSI Lyon][epsi]
-  - 🏭🌇 Moitié entreprise: [<img src="https://www.dra-technologies.fr/app/themes/DRA/resources/assets/images/screenshot.png" height="15" /> D.R.A Technologies][dra] 
-- Mon but pour l'année scolaire 2020-2021: contribuer plus aux projets open sources
+## Jeune étudiant en dévloppement informatique, je fais mes études en alternance.
+|Alternance|||
+|:---|---|:---|
+|🎒 Ecole|[<img src="https://media.glassdoor.com/sqll/1129766/epsi-association-squarelogo-1455620120317.png" height="30" />][epsi]|[EPSI Lyon][epsi]  
+|🏭 Entreprise|[<img src="https://www.dra-technologies.fr/app/themes/DRA/resources/assets/images/screenshot.png" height="30" />][dra] |[D.R.A Technologies][dra]
 
+Mon but pour l'année scolaire 2020-2021: contribuer plus aux projets open sources
 ## Compétences
 ### Language de programmation
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
