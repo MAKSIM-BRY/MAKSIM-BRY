@@ -1,6 +1,6 @@
-### Bonjour tout le monde, moi c'est Maxime BARRY - aka [MAKSIM-BRY][github] sur github 👋
+## Bonjour tout le monde, moi c'est Maxime BARRY - aka [MAKSIM-BRY][github] sur github 👋
 
-## Jeune étudiant en dévloppement informatique, je fais mes études en alternance.
+### Jeune étudiant en dévloppement informatique, je fais mes études en alternance.
 |Alternance|||
 |:---|---|:---|
 |🎒 Ecole|[<img src="https://media.glassdoor.com/sqll/1129766/epsi-association-squarelogo-1455620120317.png" height="30" />][epsi]|[EPSI Lyon][epsi]  
